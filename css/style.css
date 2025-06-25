@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #eb1616;
+    --primary: #97bc62ff;
     --secondary: #191c24;
     --light: #6c7293;
     --dark: #000000;
@@ -62,8 +62,8 @@
 /*** Navbar ***/
 .navbar .dropdown-toggle::after {
     border: none;
-    content: '\f107';
-    font-family: 'Font Awesome 5 Free';
+    content: "\f107";
+    font-family: "Font Awesome 5 Free";
     font-weight: 900;
     vertical-align: middle;
     margin-left: 8px;
@@ -73,7 +73,7 @@
     margin-right: 30px;
     padding: 40px 0;
     color: var(--light);
-    font-family: 'Oswald', sans-serif;
+    font-family: "Oswald", sans-serif;
     font-size: 18px;
     font-weight: 600;
     text-transform: uppercase;
@@ -284,8 +284,8 @@
 
 .footer .btn.btn-link::before {
     position: relative;
-    content: '\f105';
-    font-family: 'Font Awesome 5 Free';
+    content: "\f105";
+    font-family: "Font Awesome 5 Free";
     font-weight: 900;
     margin-right: 10px;
 }
@@ -329,7 +329,7 @@
 }
 
 .cookie-wrapper * {
-    font-family: 'Raleway', sans-serif;
+    font-family: "Raleway", sans-serif;
 }
 
 .cookie-wrapper .show {
@@ -340,12 +340,12 @@
     display: none;
 }
 header i {
-    color: #eb1616;
+    color: #97bc62ff;
     font-size: 32px;
     text-align: center;
 }
 header h2 {
-    color: #eb1616;
+    color: #97bc62ff;
     font-weight: 500;
     text-align: center;
 }
@@ -353,7 +353,7 @@ header h2 {
     text-align: center;
 }
 .data p a {
-    color: #eb1616;
+    color: #97bc62ff;
     text-decoration: none;
     text-align: center !important;
 }
@@ -365,10 +365,10 @@ header h2 {
     text-align: center;
 }
 .buttons .cookie-button {
-    border: 2px solid #eb1616;
+    border: 2px solid #97bc62ff;
     color: #fff;
     padding: 8px 0;
-    background: #eb1616;
+    background: #97bc62ff;
     cursor: pointer;
     width: calc(100% / 2 - 10px);
     transition: all 0.5s ease;
@@ -376,14 +376,14 @@ header h2 {
 }
 .buttons #acceptBtn:hover {
     background-color: transparent;
-    color: #eb1616;
+    color: #97bc62ff;
 }
 #declineBtn {
     background: none;
-    color: #eb1616;
+    color: #97bc62ff;
 }
 #declineBtn:hover {
-    background-color: #eb1616;
+    background-color: #97bc62ff;
     color: #fff;
 }
 /* Footer Style */

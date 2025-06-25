@@ -5,7 +5,7 @@
 body {
     height: 100%;
     margin: 0;
-    font-family: 'Arial', sans-serif;
+    font-family: "Arial", sans-serif;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -30,7 +30,7 @@ body {
 h1 {
     font-size: 3.5em;
     letter-spacing: 2px;
-    color: #eb1616;
+    color: #97bc62ff;
 }
 
 p {
@@ -43,7 +43,7 @@ p {
 }
 
 .go-home {
-    background: #eb1616;
+    background: #97bc62ff;
     border: none;
     color: #fff;
     font-weight: bold;
@@ -56,7 +56,7 @@ p {
 }
 
 .go-home:hover {
-    background-color: #eb1616;
+    background-color: #97bc62ff;
 }
 
 a:hover .go-home {
@@ -77,7 +77,7 @@ a:hover .go-home {
 }
 
 .footer-like p a {
-    color: #eb1616;
+    color: #97bc62ff;
     text-decoration: none;
 }
 
